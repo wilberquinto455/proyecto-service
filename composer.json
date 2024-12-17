@@ -1,0 +1,17 @@
+{
+    "name": "usuario/timeout",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\Timeout\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wilderqt",
+            "email": "wildertorres455@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
